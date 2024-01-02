@@ -1,8 +1,8 @@
 <?php
 
-namespace FelipeArnold\Fipeapi;
+namespace Felipearnold\Fipeapi;
 
 class Cars extends Fipe
 {
-    protected static $type = 'carros';
+    protected static $type = 'cars';
 }

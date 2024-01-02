@@ -1,5 +1,6 @@
 {
     "name": "felipearnold/fipeapi",
+    "description": "Api para consulta de dados da tabela fipe",
     "autoload": {
         "psr-4": {
             "Felipearnold\\Fipeapi\\": "src/"
