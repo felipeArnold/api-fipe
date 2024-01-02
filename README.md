@@ -2,6 +2,12 @@
 
 API de consulta de dados da tabela FIPE.
 
+# Instalação
+
+```txt
+composer require felipearnold/fipeapi
+```
+
 # Class
 
 Class para uso de consulta fipe.
