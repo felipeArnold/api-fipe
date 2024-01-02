@@ -1,0 +1,22 @@
+{
+    "name": "felipearnold/fipeapi",
+    "autoload": {
+        "psr-4": {
+            "Felipearnold\\Fipeapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "felipeArnold",
+            "email": "felipewarnold@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^2.30"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
