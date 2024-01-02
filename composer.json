@@ -1,6 +1,7 @@
 {
     "name": "felipearnold/fipeapi",
     "description": "Api para consulta de dados da tabela fipe",
+    "version": "0.0.1",
     "autoload": {
         "psr-4": {
             "Felipearnold\\Fipeapi\\": "src/"
@@ -12,6 +13,11 @@
             "email": "felipewarnold@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.4.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+      },
     "require-dev": {
         "pestphp/pest": "^2.30"
     },
